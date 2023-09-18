@@ -1,5 +1,5 @@
 {
-  "name": "novel",
+  "name": "novel-zen-dev",
   "private": true,
   "scripts": {
     "build": "turbo build",
